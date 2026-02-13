@@ -13,12 +13,17 @@ Make all pop-ups use the 'Fast Menu' setting.
 ---
 
 ## About
-This mod forces all pop-ups to use your game's "Fast Menu" setting when playing their opening animation, as this is not enforced by default throughout the whole game.
+This mod forces all pop-ups to respect your game's `Fast Menu` setting when playing their opening animation, as this is not enforced by default throughout the whole game.
 
 ---
 
 ### Note
-Some mods may force **no elastic animation** on their pop-ups for one reason or another!
+Some mods might force **no elastic animation** on their pop-ups for one reason or another!
+
+---
+
+### Credits
+- **[Alphalaneous](https://www.github.com/Alphalaneous/)**: for [agu](https://www.geode-sdk.org/mods/alphalaneous.alphas_geode_utils) and tips for this mod..... :3
 
 ---
 
