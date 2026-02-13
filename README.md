@@ -7,10 +7,18 @@ Make all pop-ups use the 'Fast Menu' setting.
 >  
 > [<img alt="Downloads" src="https://img.shields.io/github/downloads/BlueWitherer/FastPopups/total?style=for-the-badge&logo=geode&logoColor=ffffff&label=Downloads">](https://www.geode-sdk.org/mods/cheeseworks.fastpopups)
 
+> [!TIP]
+> *This mod has settings you can utilize to customize your experience.*
+
 ---
 
 ## About
-This mod forces all pop-ups to use your game's "Fast Menu" setting when playing their opening animation, as this is not enforced throughout the whole game.
+This mod forces all pop-ups to use your game's "Fast Menu" setting when playing their opening animation, as this is not enforced by default throughout the whole game.
+
+---
+
+### Note
+Some mods may force **no elastic animation** on their pop-ups for one reason or another!
 
 ---
 

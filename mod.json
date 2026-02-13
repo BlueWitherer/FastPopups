@@ -19,10 +19,19 @@
         "community": "https://www.dsc.gg/cheeseworks"
     },
     "tags": [
-        "joke"
+        "offline",
+        "enhancement"
     ],
     "dependencies": {
         "alphalaneous.alphas_geode_utils": ">=1.2.0-beta.2"
+    },
+    "settings": {
+        "no-force": {
+            "type": "bool",
+            "name": "Don't Force",
+            "description": "Avoid forcing elastic animation on pop-ups that intend disable this behavior. <cy>Disabling this could result in strange behavior.</c>",
+            "default": true
+        }
     },
     "early-load": false
 }

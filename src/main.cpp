@@ -6,6 +6,7 @@ using namespace geode::prelude;
 
 class $baseModify(FLAlertLayer) {
     void modify() {
-        if (auto gm = GameManager::get()) m_noElasticity = gm->getGameVariable("0168");
+        if (m_noElasticity && Mod::get()->getSettingValue<bool>("no-force")) return; // if you insist!
+        m_noElasticity = GameManager::get()->getGameVariable("0168");
     };
 };

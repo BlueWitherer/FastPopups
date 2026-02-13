@@ -3,10 +3,17 @@
 
 *by [Cheeseworks](user:6408873)!*
 
+> ![✳️](frame:collaborationIcon_001.png) <cg>*This mod has settings you can utilize to customize your experience.*</c>
+
 ---
 
 ## About
-This mod forces all pop-ups to use your game's "Fast Menu" setting when playing their opening animation, as this is not enforced throughout the whole game.
+This mod forces all pop-ups to use your game's "Fast Menu" setting when playing their opening animation, as this is not enforced by default throughout the whole game.
+
+---
+
+### Note
+<cg>Some mods</c> may <cy>force **no elastic animation** on their pop-ups</c> for one reason or another!
 
 ---
 
