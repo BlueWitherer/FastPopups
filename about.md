@@ -1,4 +1,4 @@
-# Fast Pop-ups
+# ![❎](frame:GJ_closeBtn_001.png?scale=0.45) Fast Pop-ups
 **Make all pop-ups use the 'Fast Menu' setting.**
 
 *by [Cheeseworks](user:6408873)!*
