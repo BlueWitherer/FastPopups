@@ -23,7 +23,6 @@ Some mods may force **no elastic animation** on their pop-ups for one reason or 
 ---
 
 ![preview](previews/preview-1.png)
-![preview](previews/preview-2.png)
 
 ---
 
