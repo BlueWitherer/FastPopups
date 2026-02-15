@@ -23,7 +23,7 @@ Some mods might force **no elastic animation** on their pop-ups for one reason o
 ---
 
 ### Credits
-- **[Alphalaneous](https://www.github.com/Alphalaneous/)**: for [agu](https://www.geode-sdk.org/mods/alphalaneous.alphas_geode_utils) and tips for this mod..... :3
+- **[Alphalaneous](https://www.github.com/Alphalaneous/)**: for [agu](https://www.geode-sdk.org/mods/alphalaneous.alphas_geode_utils) and tips for this implementing mod..... :3
 
 ---
 

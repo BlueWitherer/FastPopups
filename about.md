@@ -18,7 +18,7 @@ This mod forces all pop-ups to respect your game's `Fast Menu` setting when play
 ---
 
 ### Credits
-- **[Alphalaneous](user:1139015)**: for [agu](mod:alphalaneous.alphas_geode_utils) and tips for this mod..... :3
+- **[Alphalaneous](user:1139015)**: for [agu](mod:alphalaneous.alphas_geode_utils) and tips for implementing this mod..... :3
 
 ---
 

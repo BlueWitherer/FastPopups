@@ -8,7 +8,7 @@
     },
     "id": "cheeseworks.fastpopups",
     "name": "Fast Pop-ups",
-    "version": "1.0.0-beta.1",
+    "version": "1.0.0-beta.2",
     "developers": [
         "Cheeseworks"
     ],
@@ -30,7 +30,7 @@
         "no-force": {
             "type": "bool",
             "name": "Don't Force Animation",
-            "description": "Avoid forcing the elastic animation on pop-ups that fully intend to disable this behavior. <cr>Re-enabling it could result in strange behavior.</c>",
+            "description": "Avoid forcing the elastic animation on pop-ups that fully intend to disable this behavior. <cr>Re-enabling it could result in unexpected behavior.</c>",
             "default": true
         }
     },
