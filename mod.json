@@ -20,7 +20,8 @@
     },
     "tags": [
         "offline",
-        "enhancement"
+        "enhancement",
+        "bugfix"
     ],
     "dependencies": {
         "alphalaneous.alphas_geode_utils": ">=1.2.0"
