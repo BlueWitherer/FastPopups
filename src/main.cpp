@@ -4,9 +4,9 @@
 
 using namespace geode::prelude;
 
-class $baseModify(FLAlertLayer) {
+class $baseModify(FastMenuFLAlertLayer, FLAlertLayer) {
     void modify() {
-        if (m_noElasticity && Mod::get()->getSettingValue<bool>("no-force")) return; // if you insist!
+        if (m_noElasticity && Mod::get()->getSettingValue<bool>("no-force")) return;  // if you insist!
         m_noElasticity = GameManager::get()->getGameVariable("0168");
     };
 };
