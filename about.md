@@ -1,5 +1,5 @@
 # ![❎](frame:GJ_closeBtn_001.png?scale=0.45) Fast Pop-ups
-**Make all pop-ups use the 'Fast Menu' setting.**
+**Apply 'Fast Menu' to all pop-ups.**
 
 *by [Cheeseworks](user:6408873)!*
 
@@ -13,7 +13,7 @@ This mod forces all pop-ups to respect your game's `Fast Menu` setting when play
 ---
 
 ### Note
-<cg>Some mods</c> might <cy>force **no elastic animation** on their pop-ups</c> for one reason or another!
+<cg>Some mods</c> might <cy>force **no elastic animation** on their pop-ups</c> for one reason or another! If you would still like to force the elastic animation, please check <cg>this mod's settings</c>.
 
 ---
 

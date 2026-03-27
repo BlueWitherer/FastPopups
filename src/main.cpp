@@ -4,9 +4,19 @@
 
 using namespace geode::prelude;
 
+static bool s_noForce = Mod::get()->getSettingValue<bool>("no-force");
+
+$on_mod(Loaded) {
+    listenForSettingChanges<bool>(
+        "no-force",
+        [](bool value) {
+            s_noForce = value;  // nanosecond optimization fr
+        });
+};
+
 class $baseModify(FastMenuFLAlertLayer, FLAlertLayer) {
     void modify() {
-        if (m_noElasticity && Mod::get()->getSettingValue<bool>("no-force")) return;  // if you insist!
+        if (m_noElasticity && s_noForce) return;  // if you insist!
         m_noElasticity = GameManager::get()->getGameVariable("0168");
     };
 };

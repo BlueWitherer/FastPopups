@@ -1,5 +1,5 @@
 # [<img src="logo.png" width="25" alt="The mod's logo." />](https://www.geode-sdk.org/mods/cheeseworks.fastpopups) Fast Pop-ups
-Make all pop-ups use the 'Fast Menu' setting.
+Apply 'Fast Menu' to all pop-ups.
 
 > [<img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCi2M6N_ff1UC6MyfWzKQvgg?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube">](https://www.youtube.com/@cheese_works/) [<img alt="Bluesky" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dcheeseworks.gay&query=%24.followersCount&style=for-the-badge&logo=bluesky&logoColor=ffffff&label=Bluesky">](https://bsky.app/profile/cheeseworks.gay) [<img alt="Discord" src="https://img.shields.io/discord/460081436637134859?style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord">](https://dsc.gg/cubic)
 
@@ -18,7 +18,7 @@ This mod forces all pop-ups to respect your game's `Fast Menu` setting when play
 ---
 
 ### Note
-Some mods might force **no elastic animation** on their pop-ups for one reason or another!
+Some mods might force **no elastic animation** on their pop-ups for one reason or another! If you would still like to force the elastic animation, please check this mod's settings.
 
 ---
 
